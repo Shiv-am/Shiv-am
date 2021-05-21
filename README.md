@@ -8,8 +8,7 @@
 - 📫 How to reach me **shivambansal436@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
-- <br></br>
-- 
+<br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiv-am&show_icons=true&locale=en" alt="shiv-am" /></p>
 
 
